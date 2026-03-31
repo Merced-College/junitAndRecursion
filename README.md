@@ -7,5 +7,7 @@ You are responsible for completing all of the problems by creating a method to s
 TO TURN IN:
 
 Turn in your *.java file(s) for the recursive problems and JUnit tests that you complete this assignments. 
+Make sure your name, date and explanation of code is at the top of your class files.
 Turn the files into this github repo that you cloned for this assignment.
 You should include all of the problems as methods in one program.
+Make sure to use Java standards, indent correctly, and use good variable/method names.
